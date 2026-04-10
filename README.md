@@ -68,5 +68,6 @@ Bot: Goodbye!
 
 ---
 
-👨‍💻 Author Name 
--- Siri Sahithi Satyala
+👨‍💻 Author
+
+- Siri Sahithi Satyala
